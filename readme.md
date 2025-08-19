@@ -1,3 +1,5 @@
+This is a dummy project to test signing a JSON payload
+
 Requirements:
 - Node v22
 - TS
